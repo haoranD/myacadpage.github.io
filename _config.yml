@@ -9,7 +9,7 @@
 title                    : "Haoran Duan"
 description              : "Research Scientist "
 repository               : "https://haoranduan.com/"
-google_scholar_stats_use_cdn : False
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoran Duan"
   avatar           : "images/dhr.png"
-  bio              : "Tsinghua University / Newcastle University"
+  bio              : "Tsinghua University - Newcastle University"
   location         : "Beijing, China - Newcastle, UK"
   employer         :
   pubmed           : 
