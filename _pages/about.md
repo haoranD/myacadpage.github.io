@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Haoran Duan (段皓然), I am a research scientists from Tsinghua University / Newcastle University / Durham University, I am closely working with [Jungong Han (韩军功)](https://scholar.google.com/citations?hl=en&user=hNi1gxAAAAAJ&view_op=list_works). Also, I have been working with  [Rajiv Ranjan (Rajiv Ranjan)](https://scholar.google.com/citations?hl=en&user=Y_Y3fVEAAAAJ&view_op=list_works&sortby=pubdate) in Newcastle UK, [Yang Long (龙洋)](https://scholar.google.com/citations?user=IrkuknEAAAAJ&hl=en) in Durham UK and [Ling Shao (邵岭)](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en) in UAE. My research interests includes neural machine translation and computer vision. I have published more than  papers at the top AI journals.
+My name is Haoran Duan (段皓然), I am a research scientists from Tsinghua University / Newcastle University / Durham University, I am closely working with [Jungong Han (韩军功)](https://scholar.google.com/citations?hl=en&user=hNi1gxAAAAAJ&view_op=list_works). Also, I have been working with  [Rajiv Ranjan (Rajiv Ranjan)](https://scholar.google.com/citations?hl=en&user=Y_Y3fVEAAAAJ&view_op=list_works&sortby=pubdate) in Newcastle UK, [Yang Long (龙洋)](https://scholar.google.com/citations?user=IrkuknEAAAAJ&hl=en) in Durham UK and [Ling Shao (邵岭)](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en) in UAE. My research interests includes Computer Vision, Multimodal AI and AI for Science. I have published more than 40 papers at the top AI journals and conferences.
 
 # 📝 Selected Publications 
 
