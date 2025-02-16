@@ -21,7 +21,7 @@ My name is Haoran Duan (段皓然), I am a research scientists from Tsinghua Uni
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/tpami2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/tpami2023.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamic Unary Convolution in Transformers](https://ieeexplore.ieee.org/abstract/document/10004645)
