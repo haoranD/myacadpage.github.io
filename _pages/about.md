@@ -30,7 +30,7 @@ My name is Haoran Duan (段皓然), I am a research scientists from Tsinghua Uni
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/tpami2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/tpami2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Laser: Efficient Language-Guided Segmentation in Neural Radiance Fields](https://arxiv.org/pdf/2501.19084)
