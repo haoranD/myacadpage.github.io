@@ -41,4 +41,4 @@ Xingyu Miao, **Haoran Duan**(共一通讯), Yang Bai, Tejal Shah, Jun Song, Yang
 
 # 📝 Selected Publications
 
-- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
+- `AAAI 2025` [LAGD: Local topological-Alignment and Global semantic-Deconstruction for Incremental 3D Semantic Segmentation](https://aaai.org/conference/aaai/aaai-25/), Yumin Zhang, Haoran Duan, Rui Sun, Y Cheng, Tejal Shah, Rajiv Ranjan, Bo Wei, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
