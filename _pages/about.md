@@ -41,6 +41,7 @@ Xingyu Miao, **Haoran Duan**(共一通讯), Yang Bai, Tejal Shah, Jun Song, Yang
 
 # 📝 Selected Publications
 
+- `Information Science 2024` [Wearable-based Behaviour Interpolation for Semi-supervised Human Activity Recognition](https://www.sciencedirect.com/science/article/pii/S0020025524003062), **Haoran Duan**, Shidong Wang, Varun Ojha, Shizheng Wang, Yawen Huang, Yang Long, Rajiv Ranjan, Yefeng Zheng
 - `IEEE TCSVT 2024` [Sentinel-Guided Zero-Shot Learning: A Collaborative Paradigm without Real Data Exposure](https://ieeexplore.ieee.org/abstract/document/10489996), Fan Wan, Xingyu Miao, **Haoran Duan**(通讯), Jingjing Deng, Rui Gao, Yang Long
 - `IEEE TCSVT 2024` [SP-SLAM: Neural Real-Time Dense SLAM With Scene Priors](https://ieeexplore.ieee.org/abstract/document/10830563), Zhen Hong, Bowen Wang, **Haoran Duan**(通讯), Yawen Huang, Xiong Li, Zhenyu Wen, Xiang Wu, Wei Xiang, Yefeng Zheng
 - `IEEE JBHI 2025` [DSleepNet: Disentanglement Learning for Personal Attribute-agnostic Three-stage Sleep Classification Using Wearable Sensing Data](https://ieeexplore.ieee.org/abstract/document/10884774), Bing Zhai, **Haoran Duan**(通讯), Yu Guan, Huy Phan, Wai Lok Woo
@@ -53,7 +54,6 @@ Xingyu Miao, **Haoran Duan**(共一通讯), Yang Bai, Tejal Shah, Jun Song, Yang
 - `IEEE TMI 2024` [Prototype Correlation Matching and Class-Relation Reasoning for Few-Shot Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10553387), Yumin Zhang, Hongliu Li, Yajun Gao, **Haoran Duan**, Yawen Huang, Yefeng Zheng
 - `IEEE TNNLS 2024` [A Semantic-Consistent Few-Shot Modulation Recognition Framework for IoT Applications](https://ieeexplore.ieee.org/abstract/document/10645691), Jie Su, Peng Sun, Yuting Jiang, Zhenyu Wen, Fangda Guo, Yiming Wu, Zhen Hong, **Haoran Duan**, Yawen Huang, Rajiv Ranjan, Yefeng Zheng
 - `IEEE TNNLS 2024` [UniHead: Unifying Multi-Perception for Detection Heads](https://ieeexplore.ieee.org/abstract/document/10566886), Hantao Zhou, Rui Yang, Yachao Zhang, **Haoran Duan**, Yawen Huang, Runze Hu, Xiu Li, Yefeng Zheng
-- `Information Science` [Wearable-based Behaviour Interpolation for Semi-supervised Human Activity Recognition](https://www.sciencedirect.com/science/article/pii/S0020025524003062), **Haoran Duan**, Shidong Wang, Varun Ojha, Shizheng Wang, Yawen Huang, Yang Long, Rajiv Ranjan, Yefeng Zheng
 - `IEEE TCSVT 2023` [VSP-Fuse: Multifocus Image Fusion Model Using the Knowledge Transferred From Visual Salience Priors](https://ieeexplore.ieee.org/abstract/document/9989382), Zeyu Wang, Xiongfei Li, Shuang Yu, **Haoran Duan**, Xiaoli Zhang, Jizheng Zhang, Shiping Chen
 - `IJCV 2023` [When Multi-Focus Image Fusion Networks Meet Traditional Edge-Preservation Technology](https://link.springer.com/article/10.1007/s11263-023-01806-w), Wang Zeyu, Li Xiongfei, Zhao Libo, **Haoran Duan**, Wang Shidong, Liu Hao, Zhang Xiaoli
 - `IEEE TALSP 2023` [EfficientTDNN: Efficient Architecture Search for Speaker Recognition](https://ieeexplore.ieee.org/abstract/document/9798861), Zhen Hong Rui Wang, Zhihua Wei, **Haoran Duan**, Yang Long, Shouling Ji
