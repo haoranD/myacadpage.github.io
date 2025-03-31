@@ -42,7 +42,7 @@ Xingyu Miao, **Haoran Duan**(共一通讯), Yang Bai, Tejal Shah, Jun Song, Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/ijcv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Parameter Efficient Fine-Tuning for Multi-modal Generative Vision Models with Möbius-Inspired Transformation
+[Parameter Efficient Fine-Tuning for Multi-modal Generative Vision Models with Möbius-Inspired Transformation](https://link.springer.com/article/10.1007/s11263-025-02398-3)
 
 **Haoran Duan**, Shuai Shao, Bing Zhai, Tejal Shah, Jungong Han & Rajiv Ranjan
 </div>
