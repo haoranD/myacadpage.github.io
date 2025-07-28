@@ -48,7 +48,7 @@ Xingyu Miao, **Haoran Duan**(共一通讯), Yang Bai, Tejal Shah, Jun Song, Yang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025(Highlight)</div><img src='images/tpami2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025(Highlight)</div><img src='images/3diccv2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Scalable Spatial Intelligence via 2D-to-3D Data Lifting](https://scholar.google.com/citations?user=2fIQOBsAAAAJ&hl=en)
@@ -57,7 +57,7 @@ Xingyu Miao, **Haoran Duan**, Quanhao Qian, Jiuniu Wang, Yang Long, Ling Shao, D
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/tpami2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/IFiccv2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion](https://scholar.google.com/citations?user=2fIQOBsAAAAJ&hl=en)
@@ -66,12 +66,12 @@ Zeyu Wang, Jizheng Zhang, Haiyu Song, Mingyu Ge, Jiayu Wang, **Haoran Duan**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/tpami2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/rethinkICML2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Rethinking Score Distilling Sampling for 3D Editing and Generation](https://arxiv.org/pdf/2505.01888)
 
-Zeyu Wang, Jizheng Zhang, Haiyu Song, Mingyu Ge, Jiayu Wang, **Haoran Duan**
+Xingyu Miao, **Haoran Duan**, Yang Long, Jungong Han
 </div>
 </div>
 
