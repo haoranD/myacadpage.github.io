@@ -21,6 +21,15 @@ My name is Haoran Duan (段皓然), I am a research scientist from Tsinghua Univ
 
 # 📝 Featured Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/ijcv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Parameter Efficient Fine-Tuning for Multi-modal Generative Vision Models with Möbius-Inspired Transformation](https://link.springer.com/article/10.1007/s11263-025-02398-3)
+
+**Haoran Duan**, Shuai Shao, Bing Zhai, Tejal Shah, Jungong Han & Rajiv Ranjan
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/tpami2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,14 +48,34 @@ Xingyu Miao, **Haoran Duan**(共一通讯), Yang Bai, Tejal Shah, Jun Song, Yang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/ijcv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025(Highlight)</div><img src='images/tpami2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Parameter Efficient Fine-Tuning for Multi-modal Generative Vision Models with Möbius-Inspired Transformation](https://link.springer.com/article/10.1007/s11263-025-02398-3)
+[Towards Scalable Spatial Intelligence via 2D-to-3D Data Lifting](https://scholar.google.com/citations?user=2fIQOBsAAAAJ&hl=en)
 
-**Haoran Duan**, Shuai Shao, Bing Zhai, Tejal Shah, Jungong Han & Rajiv Ranjan
+Xingyu Miao, **Haoran Duan**, Quanhao Qian, Jiuniu Wang, Yang Long, Ling Shao, Deli Zhao, Ran Xu, Gongjie Zhang
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/tpami2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion](https://scholar.google.com/citations?user=2fIQOBsAAAAJ&hl=en)
+
+Zeyu Wang, Jizheng Zhang, Haiyu Song, Mingyu Ge, Jiayu Wang, **Haoran Duan**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/tpami2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking Score Distilling Sampling for 3D Editing and Generation](https://arxiv.org/pdf/2505.01888)
+
+Zeyu Wang, Jizheng Zhang, Haiyu Song, Mingyu Ge, Jiayu Wang, **Haoran Duan**
+</div>
+</div>
+
+
 
 # 📝 Selected Publications
 
